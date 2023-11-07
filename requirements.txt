@@ -1,0 +1,5 @@
+cython
+pyyaml==5.1
+pycocotools>=2.0.1
+opencv-contrib-python
+dlib
